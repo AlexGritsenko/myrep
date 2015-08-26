@@ -2,7 +2,7 @@ package test.spring;
 
 /**
  *
- * @author nbuser rtyrey
+ * @author nbuser 
  */
 public class Name {
 
