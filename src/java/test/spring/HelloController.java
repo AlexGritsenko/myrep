@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-//@SessionAttributes(types = Name.class)
+//@SessionAttributes(types = Name.class) ere234
 public class HelloController {
 
     @RequestMapping(value = "nameView")
