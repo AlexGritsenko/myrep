@@ -1,0 +1,7 @@
+<glassfish-web-app error-url="">
+    <!--Это для корректной кодировки при передаче данных из формы в jsp-->
+  <locale-charset-info>
+    <locale-charset-map charset="" locale=""/>
+    <parameter-encoding default-charset="UTF-8"/>
+  </locale-charset-info>
+</glassfish-web-app>
